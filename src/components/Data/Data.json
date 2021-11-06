@@ -1,0 +1,35 @@
+[{
+    "id": 1,
+    "image": "https://www.seekpng.com/png/detail/9-95205_banana-png-picture-transparent-png-3-bananas.png",
+    "name": "Banana",
+    "price": "20",
+    "categories": "Fruits",
+    "vendor":"Organic farms",
+    "available":1
+  }, {
+    "id": 2,
+    "image": "https://purepng.com/public/uploads/large/purepng.com-potatopotatofood-cropsvegetablepotatos-1701527311385zrzci.png",
+    "name": "potato",
+    "price": "30",
+    "categories": "Vegetables",
+    "vendor":"Himachal pvt ltd",
+    "available":1
+  }, {
+    "id": 3,
+    "image": "https://th.bing.com/th/id/OIP.jeTjKIC9hTfzLHkpkmUB-QHaE8?pid=ImgDet&rs=1",
+    "name": "Drumsticks",
+    "price": "20",
+    "categories": "Vegetables",
+    "vendor":"malikarjuna frams",
+    "available":0
+  },
+      {
+    "id": 4,
+    "image": "https://pngimg.com/uploads/orange/orange_PNG800.png",
+    "name": "Orange",
+    "price": "25",
+    "categories": "Fruits",
+    "vendor":"nagpur farms",
+    "available":0
+}
+]
